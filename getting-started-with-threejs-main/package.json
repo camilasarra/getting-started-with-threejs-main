@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "three": "^0.164.1",
+    "vite": "^5.2.10"
+  },
+  "name": "getting-started-with-threejs-main",
+  "description": "",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC"
+}
